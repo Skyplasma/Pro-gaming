@@ -1,0 +1,10 @@
+A variable is place that you define to store a datem of information.
+
+The four core data types that been introduced are Integer, String, Float and Boolean
+
+The input function does not know automatically what to do with the characters that are given 
+so it just keeps the characters as the string data type so we have convert it to the integer or float
+type so that the arithmetic functions can be carried out using these data points.
+
+print(f"{x} times {y} equals {z}")
+
