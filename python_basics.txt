@@ -8,3 +8,11 @@ type so that the arithmetic functions can be carried out using these data points
 
 print(f"{x} times {y} equals {z}")
 
+Variable naming should always stay consistent with what patterns of upper and lower case are used (e.g. camelcase)
+
+/ is the operator for division // is the operator for rounded down division
+
+type returns what the data type of the refered variable is this can be helpful for determining compatability when doing funky processing between variables.
+
+idk try shit till it works usually in the order of checking syntax, checking capitalisation, checking data types, checking function specifics.
+or like just read what line the error is.
