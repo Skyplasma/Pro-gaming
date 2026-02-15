@@ -11,10 +11,3 @@ print(normalise(name))
 
 for name in normalise(name):
     print(name[0])
-
-
-llength = len(normalise(name[0]))
-while i <= len(normalise(name)):
-    print(normalise(name[i]))
-    i = i + 1
-
